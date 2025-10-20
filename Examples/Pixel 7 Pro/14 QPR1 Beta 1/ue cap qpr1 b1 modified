@@ -381,8 +381,8 @@ ul-dcch
        EUTRA RRC_CONNECTED to UTRA CELL_DCH PS handover : supported
        EUTRA RRC_CONNECTED to GERAN GSM_Dedicated handover : supported
        EUTRA RRC_CONNECTED to GERAN (Packet) Idle by Cell Change Order; EUTRA RRC_CONNECTED to GERAN (Packet) Idle by Cell Change Order with NACC : supported
-       EUTRA RRC_CONNECTED to CDMA2000 1xRTT CS Active handover : not supported
-       EUTRA RRC_CONNECTED to CDMA2000 HRPD Active handover : not supported
+       EUTRA RRC_CONNECTED to CDMA2000 1xRTT CS Active handover : supported
+       EUTRA RRC_CONNECTED to CDMA2000 HRPD Active handover : supported
        Inter-frequency handover (within FDD or TDD) : supported
        Measurement reporting event: Event A4 - Neighbour > threshold; Measurement reporting event: Event A5 - Serving < threshold1 & Neighbour > threshold2 : supported
        Measurement reporting event: Event B1 - Neighbour > threshold : supported
@@ -430,7 +430,7 @@ ul-dcch
           Inter-RAT ANR features for UTRAN FDD : supported
           Inter-RAT ANR features for GERAN : supported
           Inter-RAT ANR features for 1xRTT : not supported
-          Inter-RAT ANR features for HRPD : not supported
+          Inter-RAT ANR features for HRPD : supported
           Inter-RAT ANR features for UTRAN TDD : not supported
           EUTRA RRC_CONNECTED to UTRA TDD CELL_DCH PS handover : not supported
           UTRAN TDD measurements, reporting and measurement reporting event B2 in E-UTRA connected mode : not supported
